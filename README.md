@@ -89,18 +89,4 @@ I enjoy building web applications and exploring AI-based solutions.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poovarasan-11&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/poovarasan-m)
-- 🐙 [GitHub](https://github.com/Poovarasan-11)
-- 📧 poovarasan200511@gmail.com
-
----
-
 ⭐ Thanks for visiting my profile!
