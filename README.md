@@ -68,33 +68,33 @@ I enjoy building web applications and exploring AI-based solutions.
 ### 🍔 Food Ordering Application
 **React | Spring Boot | Java | REST API | MySQL**
 
-- Built a full-stack food ordering platform.
-- Implemented restaurant browsing, menus, cart and order placement.
-- Developed REST APIs for authentication and order management.
-- Improved application performance using efficient database queries and indexing.
+- 🍽️ Built a full-stack food ordering platform.
+- 🛒 Implemented restaurant browsing, menus, cart and order placement.
+- 🔐 Developed REST APIs for authentication and order management.
+- ⚡ Improved application performance using efficient database queries and indexing.
 
 ### 🤖 Age & Gender Detection using Deep Learning
 **Python | OpenCV | Deep Learning**
 
-- Developed a computer vision application for age group and gender detection.
-- Implemented face detection using Haar cascades and deep learning-based detectors.
+- 🧠 Developed a computer vision application for age group and gender detection.
+- 👤 Implemented face detection using Haar cascades and deep learning-based detectors.
 
 ### 🎬 Movie Ticket Booking System
 **React | MongoDB | Node.js**
 
-- Built a movie ticket booking application.
-- Implemented seat selection and real-time availability.
-- Used MongoDB for managing users, movies and booking data.
-- Developed a component-based React interface for movie booking.
+- 🎥 Built a movie ticket booking application.
+- 💺 Implemented seat selection and real-time availability.
+- 🗄️ Used MongoDB for managing users, movies and booking data.
+- ⚛️ Developed a component-based React interface for movie booking.
 
 ### 🤖 Cognix AI – RAG-Based Chatbot
 **React | Node.js | Express | MongoDB Atlas | Google Gemini API**
 
-- Built a full-stack RAG chatbot that answers questions from uploaded PDF, DOCX, and image documents.
-- Implemented MongoDB Atlas Vector Search for document retrieval and Gemini for embeddings and AI responses.
-- Added context-aware conversations with chat history and per-file document scoping.
-- Integrated Gemini Vision API for understanding image-based content.
-- Deployed the backend on Render with secure API key management.
+- 📄 Built a full-stack RAG chatbot that answers questions from uploaded PDF, DOCX, and image documents.
+- 🔎 Implemented MongoDB Atlas Vector Search for document retrieval and Gemini for embeddings and AI responses.
+- 💬 Added context-aware conversations with chat history and per-file document scoping.
+- 🖼️ Integrated Gemini Vision API for understanding image-based content.
+- 🚀 Deployed the backend on Render with secure API key management.
 
 ---
 
