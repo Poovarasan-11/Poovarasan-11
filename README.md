@@ -87,6 +87,15 @@ I enjoy building web applications and exploring AI-based solutions.
 - Used MongoDB for managing users, movies and booking data.
 - Developed a component-based React interface for movie booking.
 
+### 🤖 Cognix AI – RAG-Based Chatbot
+**React | Node.js | Express | MongoDB Atlas | Google Gemini API**
+
+- Built a full-stack RAG chatbot that answers questions from uploaded PDF, DOCX, and image documents.
+- Implemented MongoDB Atlas Vector Search for document retrieval and Gemini for embeddings and AI responses.
+- Added context-aware conversations with chat history and per-file document scoping.
+- Integrated Gemini Vision API for understanding image-based content.
+- Deployed the backend on Render with secure API key management.
+
 ---
 
 ⭐ Thanks for visiting my profile!
